@@ -28,22 +28,8 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=isaeidt&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=isaeidt&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaeidt&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## ✨ Let's Connect!
-
 <div align="left">
+  <p>✨ _Thanks for visiting my profile!_ 😊</p>
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/isadora-soares-eidt-1650b9229/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -52,10 +38,6 @@
   </a>
 </div>
 
----
 
-> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
 
----
 
-✨ _Thanks for visiting my profile!_ 😊
