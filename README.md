@@ -1,4 +1,7 @@
-<h1>Hi there, I'm Isadora! 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F00FF&center=true&vCenter=true&width=435&lines=Hi+there+👋+I'm+Isadora!;Welcome+to+my+GitHub+profile!;I+love+to+code+and+study!+💻📚" alt="Typing SVG" />
+</h1>
+
 
 <p>
   💻 Student of Systems Analysis and Development <br/>
