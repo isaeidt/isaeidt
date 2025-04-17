@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm Isadora! 👋</h1>
+<h1>Hi there, I'm Isadora! 👋</h1>
 
-<p align="center">
+<p>
   💻 Student of Systems Analysis and Development <br/>
   🌱 Passionate about learning and programming <br/>
   🚀 Exploring the tech world, one line of code at a time
