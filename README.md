@@ -10,14 +10,6 @@
 
 ---
 
-## 💡 About Me
-
-- 🎓 I'm currently studying **Systems Analysis and Development**
-- 💖 I absolutely **love to study and code**
-- 🧠 Always eager to learn new technologies and improve my skills
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages  
