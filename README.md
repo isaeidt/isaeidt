@@ -1,17 +1,67 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Isadora! 👋</h1>
 
-<!--
-**isaeidt/isaeidt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Student of Systems Analysis and Development <br/>
+  🌱 Passionate about learning and programming <br/>
+  🚀 Exploring the tech world, one line of code at a time
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaeidt&theme=github_dark&langs_count=8&custom_title=Minhas%20Linguagens&title_color=FFFFFF&text__color=FFFFFF&layout=compact&hide=jupyter%20notebook,portugol&exclude_repo=Portfolio-DS&card_width=320" alt="Linguagens de isaeidt" align="left" />
+## 💡 About Me
+
+- 🎓 I'm currently studying **Systems Analysis and Development**
+- 💖 I absolutely **love to study and code**
+- 🧠 Always eager to learn new technologies and improve my skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages  
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</div>
+
+### Tools & IDEs  
+<div align="left">
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white"/>
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=isaeidt&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=isaeidt&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaeidt&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## ✨ Let's Connect!
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/isadora-soares-eidt-1650b9229/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:isadorasoareseidt12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad."_ — Cory House
+
+---
+
+✨ _Thanks for visiting my profile!_ 😊
