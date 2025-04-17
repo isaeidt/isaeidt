@@ -30,7 +30,7 @@
 
 <div align="left">
   <p>✨ _Thanks for visiting my profile!_ 😊</p>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN](https://www.linkedin.com/in/isadora-soares-eidt-1650b9229/" target="_blank">
+  <a href="https://www.linkedin.com/in/isadora-soares-eidt-1650b9229/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:isadorasoareseidt12@gmail.com" target="_blank">
